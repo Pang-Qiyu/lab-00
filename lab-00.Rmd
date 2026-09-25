@@ -46,5 +46,5 @@ p1 <- ggplot(data = team_data,
 p1
 ```
 
-*Remove this text (including the stars), and add your answer for Exercise 18 here.*
+This bar chart shows each team member's favourite number.The x-axis displays each person's GitHub username, and the y-axis shows their favourite number and colour.The largest favourite number 10 and Pang-Qiyu and Joe both like 7.
 
